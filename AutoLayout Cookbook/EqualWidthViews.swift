@@ -25,6 +25,11 @@ class EqualWidthViewController: UIViewController {
         
         view.addSubview(redView)
         view.addSubview(blueView)
+        
+        //MARK: Always disable autoresizing masks
+        
+        redView.translatesAutoresizingMaskIntoConstraints = false
+        blueView.translatesAutoresizingMaskIntoConstraints = false
     }
 }
 

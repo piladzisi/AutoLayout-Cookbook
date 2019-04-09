@@ -13,6 +13,7 @@
 		4FB02EE8225C91C500281232 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FB02EE7225C91C500281232 /* Assets.xcassets */; };
 		4FB02EEB225C91C500281232 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FB02EE9225C91C500281232 /* LaunchScreen.storyboard */; };
 		4FB02EF3225C920300281232 /* EqualWidthViews.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FB02EF2225C920300281232 /* EqualWidthViews.storyboard */; };
+		4FB02EF5225C97F600281232 /* EqualWidthViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB02EF4225C97F600281232 /* EqualWidthViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4FB02EEA225C91C500281232 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4FB02EEC225C91C500281232 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4FB02EF2225C920300281232 /* EqualWidthViews.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = EqualWidthViews.storyboard; sourceTree = "<group>"; };
+		4FB02EF4225C97F600281232 /* EqualWidthViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EqualWidthViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				4FB02EE7225C91C500281232 /* Assets.xcassets */,
 				4FB02EE9225C91C500281232 /* LaunchScreen.storyboard */,
 				4FB02EEC225C91C500281232 /* Info.plist */,
+				4FB02EF4225C97F600281232 /* EqualWidthViews.swift */,
 			);
 			path = "AutoLayout Cookbook";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			files = (
 				4FB02EE3225C91C400281232 /* ViewController.swift in Sources */,
 				4FB02EE1225C91C400281232 /* AppDelegate.swift in Sources */,
+				4FB02EF5225C97F600281232 /* EqualWidthViews.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -17,6 +17,7 @@
 		4FB02EF7225CA5E500281232 /* DifferingHeightViews.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FB02EF6225CA5E500281232 /* DifferingHeightViews.storyboard */; };
 		4FB02EF9225CA96000281232 /* DifferingHeightViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB02EF8225CA96000281232 /* DifferingHeightViews.swift */; };
 		4FB02EFB225CB9D900281232 /* ComplexViewWidth.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FB02EFA225CB9D900281232 /* ComplexViewWidth.storyboard */; };
+		4FB02EFD225CBC6200281232 /* ComplexViewWidth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB02EFC225CBC6200281232 /* ComplexViewWidth.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		4FB02EF6225CA5E500281232 /* DifferingHeightViews.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = DifferingHeightViews.storyboard; sourceTree = "<group>"; };
 		4FB02EF8225CA96000281232 /* DifferingHeightViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DifferingHeightViews.swift; sourceTree = "<group>"; };
 		4FB02EFA225CB9D900281232 /* ComplexViewWidth.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ComplexViewWidth.storyboard; sourceTree = "<group>"; };
+		4FB02EFC225CBC6200281232 /* ComplexViewWidth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplexViewWidth.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,13 +70,14 @@
 				4FB02EE2225C91C400281232 /* ViewController.swift */,
 				4FB02EE4225C91C400281232 /* Main.storyboard */,
 				4FB02EF8225CA96000281232 /* DifferingHeightViews.swift */,
-				4FB02EF2225C920300281232 /* EqualWidthViews.storyboard */,
 				4FB02EF6225CA5E500281232 /* DifferingHeightViews.storyboard */,
 				4FB02EE7225C91C500281232 /* Assets.xcassets */,
 				4FB02EE9225C91C500281232 /* LaunchScreen.storyboard */,
 				4FB02EEC225C91C500281232 /* Info.plist */,
+				4FB02EF2225C920300281232 /* EqualWidthViews.storyboard */,
 				4FB02EF4225C97F600281232 /* EqualWidthViews.swift */,
 				4FB02EFA225CB9D900281232 /* ComplexViewWidth.storyboard */,
+				4FB02EFC225CBC6200281232 /* ComplexViewWidth.swift */,
 			);
 			path = "AutoLayout Cookbook";
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				4FB02EE3225C91C400281232 /* ViewController.swift in Sources */,
 				4FB02EE1225C91C400281232 /* AppDelegate.swift in Sources */,
 				4FB02EF9225CA96000281232 /* DifferingHeightViews.swift in Sources */,
+				4FB02EFD225CBC6200281232 /* ComplexViewWidth.swift in Sources */,
 				4FB02EF5225C97F600281232 /* EqualWidthViews.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
